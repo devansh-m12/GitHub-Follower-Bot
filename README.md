@@ -1,91 +1,95 @@
-# Follozy - GitHub Follower Bot
+# 🔥 FOLLOZY 🔥
 
-A Chrome extension that automatically follows GitHub users. Perfect for growing your network on GitHub!
+> **Grow your GitHub squad on autopilot! No cap.**
 
 ![Follozy Logo](logo.png)
 
-## Description
+<div align="center">
+  
+![GitHub stars](https://img.shields.io/github/stars/devansh-m12/GitHub-Follower-Bot?style=for-the-badge&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/devansh-m12/GitHub-Follower-Bot?style=for-the-badge&color=orange)
+![GitHub watchers](https://img.shields.io/github/watchers/devansh-m12/GitHub-Follower-Bot?style=for-the-badge&color=purple)
+![Made with](https://img.shields.io/badge/MADE_WITH-JAVASCRIPT-blue?style=for-the-badge)
+  
+</div>
 
-Follozy is a powerful Chrome extension that automates the process of following users on GitHub. The extension works by automatically clicking follow buttons when you browse GitHub users pages, helping you expand your network with minimal effort.
+## ✨ The Vibe
 
-## Features
+Follozy is your GitHub growth hack. It automatically smashes those follow buttons while you vibe elsewhere. Zero effort, maximum clout.
 
-- Automatically follows users on GitHub user listing pages
-- Navigates through pagination automatically
-- Configurable speed settings
-- Works on GitHub followers/following pages
+## 👀 Try It Here
 
-## Installation
+Hit up these pages and watch Follozy do its thing:
 
-### Step 1: Download the Extension
+```
+https://github.com/torvalds?tab=followers
+```
 
-1. Clone this repository or download it as a ZIP file
-   ```
-   git clone https://github.com/YOUR-USERNAME/follozy.git
-   ```
-   Or download the ZIP and extract it to your preferred location
+![Example](https://i.imgur.com/cMGYIjV.png)
 
-2. **Important**: Make sure you have a "logo.png" file in your extension directory. This icon file is required for the extension to show properly in Chrome.
+Imagine following Linux legend Linus Torvalds' 230k+ followers without lifting a finger! 🤯
 
-### Step 2: Load the Extension in Chrome
+## 🚀 Features
 
-1. Open Chrome and navigate to `chrome://extensions/`
-2. Enable "Developer mode" by toggling the switch in the top right corner
-3. Click on "Load unpacked" button
-4. Select the folder containing the extension files (the folder with manifest.json)
-5. The extension is now installed and you should see the Follozy icon in your Chrome toolbar
+- Auto-follows GitHub users = instant network growth
+- Slides through pages like butter
+- Speed dial to avoid getting caught in 4K
+- Works everywhere the follow buttons live
 
-## How to Use
+## 📲 Setup (It's Easy, Fr Fr)
 
-1. Navigate to any GitHub page where user follow buttons are displayed:
-   - GitHub Explore page
-   - User followers/following pages (e.g., `https://github.com/USERNAME?tab=followers`)
-   - Organization members page
+### 1️⃣ Grab the goods
 
-2. Once you're on a page with follow buttons, the extension will automatically:
-   - Click on "Follow" buttons for each user
-   - Navigate to the next page when all users on the current page are processed
-   - Continue the process until all pages are complete
+```bash
+git clone https://github.com/devansh-m12/GitHub-Follower-Bot.git
+```
 
-3. The extension runs at a reasonable speed to avoid triggering GitHub's rate limits.
+Or just [download that ZIP](https://github.com/devansh-m12/GitHub-Follower-Bot/archive/refs/heads/main.zip) if that's your thing
 
-## How to Stop the Bot
+### 2️⃣ Slap it into Chrome
 
-There are several ways to stop the bot from running:
+1. Hit up `chrome://extensions/`
+2. Toggle that "Developer mode" switch 👉 ON
+3. Click "Load unpacked" and find your folder
+4. We lit 🔥
 
-1. **Temporary Pause**:
-   - Navigate away from the GitHub page
-   - Refresh the current page to interrupt the process
+## 🔄 How To Use
 
-2. **Disable the Extension**:
-   - Click on the Extensions icon in Chrome toolbar (puzzle piece)
-   - Find "Follozy - GitHub Follower Bot" and toggle it off
+1. Pull up any GitHub spot with follow buttons
+2. Let it cook 👨‍🍳
+3. Watch your network go 📈
 
-3. **Completely Remove**:
-   - Go to `chrome://extensions/`
-   - Find "Follozy - GitHub Follower Bot" and click "Remove"
-   - Confirm removal
+## ⏹️ How To Stop
 
-## Troubleshooting
+- Switch pages (temporary pause)
+- Hit refresh (interrupt)
+- Toggle off the extension (from puzzle icon)
+- Yeet it from `chrome://extensions/` (full delete)
 
-- If the bot stops working, try refreshing the page and allowing it to start again
-- Make sure you're on a GitHub page that contains follow buttons
-- If you're being rate-limited by GitHub, wait a few hours before trying again
-- If the extension icon is not displaying in Chrome:
-  - Ensure you have a "logo.png" file in your extension directory
-  - Verify that the file name in the manifest.json matches the actual icon file
-  - Try removing and re-adding the extension if icons don't appear after reloading
+## 👀 Not Working?
 
-## Caution
+- Refresh and try again
+- Make sure you're on the right page
+- GitHub timeout? Come back later
+- Icon problems? Check your logo.png file
 
-- Using automation tools may violate GitHub's terms of service
-- Use this extension responsibly and at your own risk
-- Consider adding delays between follows to avoid detection
+## ⚠️ No Cap Warning
 
-## License
+Using bots might break GitHub's rules. Don't be that person.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 🤝 Pull Up & Contribute
 
-## Disclaimer
+Got ideas? Pull requests welcome!
 
-This tool is for educational purposes only. The developers are not responsible for any misuse or for any violations of GitHub's terms of service that may result from using this extension.
+1. Fork it
+2. Branch it (`git checkout -b fire-new-feature`)
+3. Send it (`git push origin fire-new-feature`)
+4. Pull request it
+
+## 💯 License
+
+MIT License - do whatever, just don't sue me lol.
+
+---
+
+*Made with ⚡ by [devansh-m12](https://github.com/devansh-m12)*
