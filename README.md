@@ -13,6 +13,12 @@
   
 </div>
 
+## 📈 Stargazer Graph
+
+Watch our community grow! This graph shows the project's stargazers over time:
+
+[![Stargazers over time](https://starchart.cc/devansh-m12/GitHub-Follower-Bot.svg)](https://starchart.cc/devansh-m12/GitHub-Follower-Bot)
+
 ## ✨ The Vibe
 
 Follozy is your GitHub growth hack. It automatically smashes those follow buttons while you vibe elsewhere. Zero effort, maximum clout.
