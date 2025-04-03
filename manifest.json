@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "Follozy - GitHub Follower Bot",
+    "author": "devansh-m12",
+    "version": "1.0",
+    "description": "Follows users on Github",
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "logo.png",
+            "48": "logo.png",
+            "128": "logo.png"
+        },
+        "default_title": "Follozy"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://github.com/*"],
+        "js": [
+          "jquery.min.js",
+          "content.js"
+        ],
+        "run_at": "document_end"
+      }
+    ]
+  }
+  
